@@ -1,0 +1,16 @@
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan_SEST_2_22._Winform_Lab_4.Form1.resources
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.csproj.GenerateResource.cache
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.AssemblyInfoInputs.cache
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.AssemblyInfo.cs
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\bin\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.exe
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\bin\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.deps.json
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\bin\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.runtimeconfig.json
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\bin\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.dll
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\bin\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.pdb
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.dll
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\refint\Bogdan SEST-2-22. Winform Lab 4.dll
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.pdb
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\Bogdan SEST-2-22. Winform Lab 4.genruntimeconfig.cache
+C:\Users\Bog_1\source\repos\Bogdan SEST-2-22. Winform Lab 4\Bogdan SEST-2-22. Winform Lab 4\obj\Debug\net8.0-windows\ref\Bogdan SEST-2-22. Winform Lab 4.dll

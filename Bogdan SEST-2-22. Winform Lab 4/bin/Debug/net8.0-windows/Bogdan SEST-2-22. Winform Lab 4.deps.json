@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bogdan SEST-2-22. Winform Lab 4/1.0.0": {
+        "runtime": {
+          "Bogdan SEST-2-22. Winform Lab 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bogdan SEST-2-22. Winform Lab 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
